@@ -1,6 +1,6 @@
 # 🩺 Clínica de Fonoaudiologia FonoVida - Dra. Mariana
 
-**🔗 Acesse o site ao vivo: [https://tfs-data.github.io/projeto-clinicafonovida/](https://tfs-data.github.io/projeto-clinicafonovida/)**
+**🔗 Acesse o site ao vivo: [https://tfs-data.github.io/projeto-clinicafonovida/](https://tfs-data.github.io/clinica-fonovida-landing-page/)**
 
 Uma landing page moderna, responsiva e acolhedora desenvolvida para a Clínica de Fonoaudiologia FonoVida, liderada pela Dra. Mariana. O projeto foca em transmitir confiança, profissionalismo e humanização no atendimento fonoaudiológico.
 
